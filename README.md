@@ -1,8 +1,10 @@
 # AI Image Classification System
-### Built with Python · TensorFlow · Keras · CNN
+### Built with Python  · CNN
+
+<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/d0c4a9b6-e7fa-450e-bf23-65f22c1162fa" />
 
 ---
-
+link : https://aiimageclassifiervedant.netlify.app/
 ## Project Overview
 An end-to-end image classification system using a Convolutional Neural Network (CNN)
 trained on the CIFAR-10 dataset (60,000 images, 10 classes).
