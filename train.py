@@ -7,6 +7,7 @@ Dataset: CIFAR-10 (10 classes, 60,000 images) — no manual download needed.
 How to run:
     pip install tensorflow matplotlib scikit-learn
     python train.py
+
 """
 # In your train.py — also save as TF.js format:
 import tensorflowjs as tfjs
