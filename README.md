@@ -22,7 +22,7 @@ The result is a full PDF-exportable forensic report, not just a single label.
 
 ---
 
-## Demo
+## Demo1
 
 🔗 **Live app:** [aiimageclassifiervedant.netlify.app](https://aiimageclassifiervedant.netlify.app/)
 
